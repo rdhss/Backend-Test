@@ -12,22 +12,22 @@
 
 ## SET UP
  1. create .env file for token (you can create your own value) <br/>
-    ![](/assets/token.png)
+    ![](/API/assets/token.png)
 
  2. set up config to your database on /config/Database.js <br/>
-    ![](/assets/config.png)
+    ![](/API/assets/config.png)
 
 
 ## Installation
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/rdhss/Backend-Test
    ```
 
-2. change to task 2
+2. change to API
    ```sh
-   cd task2
+   cd API
    ```
 
 3. Install NPM packages
